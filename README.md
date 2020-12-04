@@ -1,5 +1,7 @@
 # tt01
 
+## Vuex, Middleware setting
+
 ## Project setup
 ```
 npm install -g @vue/cli
